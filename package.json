@@ -1,0 +1,14 @@
+{
+  "name": "twilio-pa",
+  "version": "0.0.1",
+  "description": "A Google calendar personal assistant powered by Twilio",
+  "author": "Marcos Placona",
+  "dependencies": {
+    "agenda": "~0.6.26",
+    "datejs": "~1.0.0-rc3",
+    "express": "^4.11.2",
+    "googleapis": "~1.1.1",
+    "mongodb": "~1.4.30",
+    "twilio": "^1.10.0"
+  }
+}
